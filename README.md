@@ -2,7 +2,7 @@
 
  **Simple and nice looking app to extract and verify checksums.**
  
- **You can run it in two ways: using .py script and .exe file:**
+ **You can run it in two ways: using .py script or .exe file:**
  
  **If you are going to use .py script you have to install these libraries: tkinterdnd2, pyperclip, webbrowser.**
  
