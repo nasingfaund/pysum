@@ -11,5 +11,6 @@
 **pysum uses the GPLv3 license.**
 
 **Feel free to contibute your ideas!**
+
 ![Скриншот 1](https://github.com/tearsdev/pysum/blob/main/Screenshots/menu1.png?raw=true)
  
